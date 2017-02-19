@@ -399,8 +399,5 @@ Oh,amazing!We got it!我们真的完成了此次破解之旅，天行VPN很不�
 天行vpn破解版下载地址在我的github上,没有vpn的小伙伴可以抓紧时间去体验下，相信不久后漏洞会被堵上！
 [Ronnie Chen](https://github.com/ronniechen888/tianxing-hackness)
 
-![原创请支持](http://upload-images.jianshu.io/upload_images/2197489-84b1f9596cf7a7ac.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
-
-![原创请支持](http://upload-images.jianshu.io/upload_images/2197489-8834187b27c74a5d.JPG?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 版权声明：本文为作者原创文章，转载请标明出处。
