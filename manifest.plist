@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://10.10.10.99/app/RightBTC.ipa</string>
+					<string>http://13.57.229.50:8080/app/RightBTC.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://10.10.10.99/app/RightBTC.57x57.png</string>
+					<string>http://13.57.229.50:8080/app/RightBTC.57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://10.10.10.99/app/RightBTC.512x512.png</string>
+					<string>http://13.57.229.50:8080/app/RightBTC.512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
